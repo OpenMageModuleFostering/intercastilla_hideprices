@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Intercastilla_Hideprices",
+    "type": "magento-module",
+    "license": "MIT",
+    "homepage": "",
+    "description": "This extension allows you to hide prices for not logged-in or selected customer groups",
+    "authors": [
+    {
+        "name": "Intercastilla Team",
+        "email": "comercial@intercastilla.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
