@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 This extension allows you to hide prices for not logged-in or selected customer groups
